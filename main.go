@@ -5,6 +5,7 @@ import (
 	"os"
 
 	"github.com/Tonkpils/grot"
+	_ "github.com/Tonkpils/grot/adapters/slack"
 )
 
 func init() {
