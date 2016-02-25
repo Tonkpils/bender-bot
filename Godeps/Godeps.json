@@ -7,7 +7,7 @@
 	"Deps": [
 		{
 			"ImportPath": "github.com/Tonkpils/grot",
-			"Rev": "09a38189d448ed8926556435e2228be37de902da"
+			"Rev": "68da6f58cf9d74e5e2e1fb6e72da0be891985ef3"
 		},
 		{
 			"ImportPath": "github.com/nlopes/slack",
